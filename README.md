@@ -10,6 +10,6 @@
 - [x] 二個 Rectangular 小工具 顯示第二至七隻股票
 - [x] 5分鐘更新一次
 
-<img src="ScreenCapture/app.png" alt="App" width="150"/>
-<img src="ScreenCapture/lock_screen.png" alt="Lock Screen" width="150"/>
+<img src="ScreenCapture/app.png" alt="App" width="150" align="left"/>
+<img src="ScreenCapture/lock_screen.png" alt="Lock Screen" width="150" align="left"/>
 
