@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  LockScreenStock
+*/
+
+"Add" = "新增";
+"Stock List" = "股票清單";
+"Add Stock" = "新增股票";
+"Cancel" = "取消";
+"Stock Symbol" = "股票代號";
+
+"Stock Widget" = "股票小工具";
+"Allow display stock widget at lock screen" = "讓你在鎖屏加入股票小工具";
+

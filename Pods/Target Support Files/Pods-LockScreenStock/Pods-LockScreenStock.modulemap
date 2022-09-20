@@ -1,0 +1,6 @@
+framework module Pods_LockScreenStock {
+  umbrella header "Pods-LockScreenStock-umbrella.h"
+
+  export *
+  module * { export * }
+}

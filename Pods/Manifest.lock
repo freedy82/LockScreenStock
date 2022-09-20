@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.6.2)
+  - SwiftYFinance (1.5.0):
+    - Alamofire (~> 5.2)
+    - SwiftyJSON (~> 4.0)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - SwiftYFinance
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SwiftYFinance
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  SwiftYFinance: dce2ba9a7a1a4699905af63730707b17d42b31b3
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 73868a9d51eac1676aa93755052183aed09b3d77
+
+COCOAPODS: 1.11.3
